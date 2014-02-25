@@ -10,9 +10,6 @@
   "dependencies": {
     "mongodb": "~1.3.19"
   },
-  "peerDependencies": {
-    "loopback-datasource-juggler": "git://github.com/Nekuromento/loopback-datasource-juggler.git"
-  },
   "devDependencies": {
     "loopback-datasource-juggler": "git://github.com/Nekuromento/loopback-datasource-juggler.git",
     "should": "~1.2.2",
@@ -21,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nekuromento/loopback-connector-mongodb"
+    "url": "https://github.com/loopback/loopback-connector-mongodb"
   },
   "license": {
     "name": "Dual MIT/StrongLoop",
-    "url": "https://github.com/Nekuromento/loopback-connector-mongodb/blob/master/LICENSE"
+    "url": "https://github.com/loopback/loopback-connector-mongodb/blob/master/LICENSE"
   }
 }
